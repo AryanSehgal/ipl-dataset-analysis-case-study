@@ -1,12 +1,12 @@
-# IPL Data Analysis (2008–2020) 🏏
+# IPL Data Analysis (2008–2024) 🏏
 
 ## Problem Statement
 
-This project analyzes 13 seasons of Indian Premier League (IPL) match data to uncover patterns around toss impact, venue advantage, and team performance, and to build predictive models for match outcomes, player-of-the-match awards, and toss-decision strategy — turning historical match data into data-driven insights for teams and analysts.
+This project analyzes 17 seasons of Indian Premier League (IPL) match data to uncover patterns around toss impact, venue advantage, and team performance, and to build predictive models for match outcomes, player-of-the-match awards, and toss-decision strategy — turning historical match data into data-driven insights for teams and analysts.
 
 ## Dataset
 
-**Source:** [IPL Complete Dataset 2008–2020 — Kaggle](https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020?select=matches.csv) (`matches.csv`)
+**Source:** [IPL Complete Dataset 2008–2020 — Kaggle](https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020?select=matches.csv) (`matches.csv`) — data spans 2008–2024
 
 The dataset contains **1,095 matches** described across **20 features**:
 
